@@ -7,7 +7,7 @@ This project is a chat application built using Next.js (React) that integrates w
 
 ## **Live Demo**  
 
-[**Visit the Live Website**](https://where-is-it-12d17.web.app/)
+[**Visit the Live Website**](https://spectacular-meringue-30eb27.netlify.app/)
 
 ## **Features**
 
